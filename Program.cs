@@ -3,15 +3,15 @@ using System.Globalization;
 using System.Linq;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using Northwind;
+using Cn_EFC_DF_Northwind;
 
-namespace CnEFDF_Northwind
+namespace Cn_EFC_DF_Northwind
 {
 	class Program
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Database first using Northwind database with three entities\n");
+			Console.WriteLine("Database first using Cn_EFC_DF_Northwind database with three entities\n");
 			using(var cn=new cnNorthwind())
 			{
 				Console.WriteLine("==================================================================================================");

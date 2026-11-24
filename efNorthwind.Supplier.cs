@@ -16,7 +16,7 @@ using System.Data.Common;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Northwind
+namespace Cn_EFC_DF_Northwind
 {
     public partial class Supplier {
 

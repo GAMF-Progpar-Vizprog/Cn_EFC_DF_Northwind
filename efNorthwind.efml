@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<efcore context-namespace="Northwind" namespace="Northwind" p1:name="cnNorthwind" p1:Guid="230794b4-313f-4bd6-9aae-b7ea59aae49f" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
+<efcore context-namespace="Cn_EFC_DF_Northwind" namespace="Cn_EFC_DF_Northwind" p1:name="cnNorthwind" p1:Guid="230794b4-313f-4bd6-9aae-b7ea59aae49f" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
   <class name="Category" entity-set="Categories" table="Categories" schema="dbo" p1:Guid="31eba906-2146-43d7-a2f6-b0751334d1a4">
     <id name="CategoryID" type="Int32" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="0221086b-b56e-42b6-b3df-d0819f0cc686">
       <column name="CategoryID" not-null="True" precision="10" scale="0" sql-type="int" p1:unicode="False" />

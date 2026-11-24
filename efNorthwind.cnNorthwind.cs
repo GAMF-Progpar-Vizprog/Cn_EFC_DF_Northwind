@@ -23,7 +23,7 @@ using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.Extensions.Configuration;
 
-namespace Northwind
+namespace Cn_EFC_DF_Northwind
 {
 
     public partial class cnNorthwind : DbContext
